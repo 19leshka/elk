@@ -1,0 +1,9 @@
+# Ignore Docker build files
+Dockerfile
+.dockerignore
+
+# Ignore Git files
+.gitignore
+
+# Ignore setup state
+state/
